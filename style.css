@@ -1,0 +1,17 @@
+boby {
+background-color: black#000000;
+color:white;
+font-family: "Bai Jamjuree", sans-serif;
+display: flex; 
+justify-content: center;
+align-items: center;
+height: 700px
+margin: 0;
+
+}
+
+button {
+    background-color: green;
+    color: white; 
+    font-family: "Bai Jumjuree", sans-serif;
+}
